@@ -109,10 +109,7 @@ if password == "hello smiley":
         output = Talk()
         now = datetime.now()
         x = datetime.now()
-        # x.strftime("%X")
-        # time_wish = str(x).split(":")
-        # gud = time_wish[0]
-        # value = int(gud)
+      
 
         # time, date, day, month, year subjects
         if "time" in output:
@@ -183,17 +180,7 @@ if password == "hello smiley":
             helo = random.choice(greetings)
             print(helo)
             Speak(helo)
-        # elif "good" in output:
-        #     if value > 00 and value < 12:
-        #         print("Good morning")
-        #     elif value >= 12 and value < 16:
-        #         print("Good Afternoon")
-        #     elif value >= 16 and value < 19:
-        #         print("Good Evening")
-        #     elif value >= 19 and value <= 23:
-        #         print("Good Night")
-        #     else:
-        #         print("nothing")
+     
         else:
             print("Sorry. Could not understand you.")
             Speak('Sorry. Could not understand you.')
@@ -203,16 +190,3 @@ else:
     print("Wrong password")
     Speak("Wrong password")
     exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
