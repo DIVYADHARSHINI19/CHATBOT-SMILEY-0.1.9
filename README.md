@@ -15,6 +15,6 @@ $ pip install webbrowser
 ```
 
 
-I created this chatbot with the help of <a href = "https://github.com/Abhijith14">ABHIJITH UDAYAKUMAR </a>
+Contributors: <a href = "https://github.com/Abhijith14">ABHIJITH UDAYAKUMAR</a>
   
 
