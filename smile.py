@@ -1,4 +1,3 @@
-import gtts
 import pyaudio
 from selenium import webdriver
 import os
