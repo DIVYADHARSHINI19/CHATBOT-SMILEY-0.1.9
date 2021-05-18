@@ -1,6 +1,3 @@
-import pyaudio
-from selenium import webdriver
-import os
 import requests
 from bs4 import BeautifulSoup
 from playsound import playsound
