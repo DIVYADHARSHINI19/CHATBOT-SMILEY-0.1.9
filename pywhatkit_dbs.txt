@@ -1,0 +1,136 @@
+--------------------
+Date: 19:5:2021
+Time: 1:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 1:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 1:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 20:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 60:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 0:5
+Phone number: +917397515601
+Message: hello dd
+--------------------
+Date: 19:5:2021
+Time: 1:10
+Phone number: +919940857441
+Message: hi
+--------------------
+Date: 19:5:2021
+Time: 12:30
+Phone number: +919940857441
+Message: hi
+--------------------
+Date: 19:5:2021
+Time: 12:30
+Phone number: +917397515601
+Message: hello i am messaging you with machine
+--------------------
+Date: 19:5:2021
+Time: 12:30
+Phone number: +919940857441
+Message: hi
+--------------------
+Date: 19:5:2021
+Time: 12:32
+Phone number: +919946883500
+Message: hello i am messaging you with machine
+--------------------
+Date: 19:5:2021
+Time: 12:35
+Phone number: +919946883500
+Message: hello i am messaging you with machine
+--------------------
+Date: 19:5:2021
+Time: 12:40
+Phone number: +919946883500
+Message: hello i am messaging you with machine
+--------------------
+Date: 19:5:2021
+Time: 14:40
+Phone number: +91 7397515601
+Message: hello i am messaging you with machine
+--------------------
+Date: 19:5:2021
+Time: 13:35
+Phone number: +918056938133
+Message: hello i am sending this message through machine
+--------------------
+Date: 19:5:2021
+Time: 13:47
+Phone number: +91994683500
+Message: Abhijith irukiya?? na ipo sapda pogata? ilana class mudistu pogata!
+--------------------
+Date: 19:5:2021
+Time: 13:49
+Phone number: +919946883500
+Message: Abhijith na sapda pogata ilana class mudistu pogata??
+--------------------
+Date: 19:5:2021
+Time: 10:59
+Phone number: +91 9946883500
+Message: hello i am messaging you with machine
+--------------------
+Date: 20:5:2021
+Time: 11:1
+Phone number: +919940857441
+Message: hello samachitiya
+--------------------
+Date: 20:5:2021
+Time: 11:10
+Phone number: +919946883500
+Message: Hello i am sending this message through python. Can we start the class now?
+--------------------
