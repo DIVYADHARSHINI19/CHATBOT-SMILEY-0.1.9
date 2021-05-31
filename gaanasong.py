@@ -2,8 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-
-
 ## PLAYING AUDIO
 def audio():
 
@@ -22,4 +20,3 @@ def audio():
         find.click()
 
     playsong()
-
