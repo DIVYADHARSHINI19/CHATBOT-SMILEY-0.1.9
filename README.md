@@ -6,7 +6,7 @@
 ## General info
   This project was my final version of CHATBOT using Python.This project was mainly created for general purpose and also to communicate through two different languages such as <b> English and Tamil</b>. It is an user-friendly chatbot which behaves as a friend and satisfy your small needs.
 	
-## SET-UP
+## Setup
 To run this project in your device, follow below steps :
 
 ```console
@@ -14,7 +14,7 @@ $ git clone https://github.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9.git
 $ cd CHATBOT-SMILEY-0.1.9
 ```
 
-## INSTALL PACKAGES
+## Install packages
 I have used several packages to this chatbot, you can download it by using the command below in your terminal 
 
 ```console
