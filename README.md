@@ -1,4 +1,7 @@
-# CHATBOT-SMILEY-2.1.0 <img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/LOGOSMILY.PNG' align='center' width=100  border-radius=50%>
+# CHATBOT-SMILEY-2.1.0 
+<div align = center>
+	<img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/LOGOSMILY.PNG' align='center' width=400>
+</div>
 
 ## General info
   This project was my final version of CHATBOT using Python.This project was mainly created for general purpose and also to communicate through two different languages such as <b> English and Tamil</b>. It is an user-friendly chatbot which behaves as a friend and satisfy your small needs.
