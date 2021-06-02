@@ -1,5 +1,5 @@
 <div align = left>
-	<img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/LOGO.jpg' align='center' width=50>  CHATBOT-SMILEY-2.1.0 
+	<img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/LOGO.jpg' align='center' width=50>  CHATBOT-SMILEY-1.9.0 
 </div>
 <div align = center>
 	<img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/read.jpg' align='center' width=600>
