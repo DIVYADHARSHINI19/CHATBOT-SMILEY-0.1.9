@@ -1,6 +1,6 @@
 ## CHATBOT-SMILEY-0.1.9 
 
-CHATBOT-SMILEY-2.1.0 
+
 <div align = center>
 	<img src='https://raw.githubusercontent.com/DIVYADHARSHINI19/CHATBOT-SMILEY-0.1.9/master/LOGOSMILY.PNG' align='center' width=400>
 </div>
